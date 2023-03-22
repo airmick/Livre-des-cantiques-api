@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "category_name": "Collection de Cantiques",
+      "id": 0
+    },
+    {
+      "category_name": "Chant de Victoire",
+      "id": 1
+    },
+    {
+      "category_name": "Nyimbo za Mungu",
+      "id": 2
+    },
+    {
+      "category_name": "Nyimbo za Wokovu",
+      "id": 3
+    },
+    {
+      "category_name": "Collections des cantiques",
+      "id": 4
+    },
+    {
+      "category_name": "Chant de victoire",
+      "id": 5
+    },
+    {
+      "category_name": "Nimbi za mungu",
+      "id": 6
+    },
+    {
+      "category_name": "Nyimbo za wokovu",
+      "id": 7
+    },
+    {
+      "category_name": "Nimbi mpya",
+      "id": 8
+    },
+    {
+      "category_name": "Nyimbo ya Bupandeji",
+      "id": 9
+    },
+    {
+      "category_name": "Uncategorized",
+      "id": 10
+    }
+  ],
+  "success": true
+}
